@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\CS\\source\\repos\\WebApplicationECOM\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B43D538D-9BED-46FA-9EB0-97498D8D292C}|WebApplicationECOM\\WebApplicationECOM.csproj|c:\\users\\cs\\source\\repos\\webapplicationecom\\webapplicationecom\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B43D538D-9BED-46FA-9EB0-97498D8D292C}|WebApplicationECOM\\WebApplicationECOM.csproj|solutionrelative:webapplicationecom\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B43D538D-9BED-46FA-9EB0-97498D8D292C}|WebApplicationECOM\\WebApplicationECOM.csproj|c:\\users\\cs\\source\\repos\\webapplicationecom\\webapplicationecom\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B43D538D-9BED-46FA-9EB0-97498D8D292C}|WebApplicationECOM\\WebApplicationECOM.csproj|solutionrelative:webapplicationecom\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B43D538D-9BED-46FA-9EB0-97498D8D292C}|WebApplicationECOM\\WebApplicationECOM.csproj|c:\\users\\cs\\source\\repos\\webapplicationecom\\webapplicationecom\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B43D538D-9BED-46FA-9EB0-97498D8D292C}|WebApplicationECOM\\WebApplicationECOM.csproj|solutionrelative:webapplicationecom\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B43D538D-9BED-46FA-9EB0-97498D8D292C}|WebApplicationECOM\\WebApplicationECOM.csproj|c:\\users\\cs\\source\\repos\\webapplicationecom\\webapplicationecom\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B43D538D-9BED-46FA-9EB0-97498D8D292C}|WebApplicationECOM\\WebApplicationECOM.csproj|solutionrelative:webapplicationecom\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B43D538D-9BED-46FA-9EB0-97498D8D292C}|WebApplicationECOM\\WebApplicationECOM.csproj|c:\\users\\cs\\source\\repos\\webapplicationecom\\webapplicationecom\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B43D538D-9BED-46FA-9EB0-97498D8D292C}|WebApplicationECOM\\WebApplicationECOM.csproj|solutionrelative:webapplicationecom\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B43D538D-9BED-46FA-9EB0-97498D8D292C}|WebApplicationECOM\\WebApplicationECOM.csproj|c:\\users\\cs\\source\\repos\\webapplicationecom\\webapplicationecom\\repository\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B43D538D-9BED-46FA-9EB0-97498D8D292C}|WebApplicationECOM\\WebApplicationECOM.csproj|solutionrelative:webapplicationecom\\repository\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\CS\\source\\repos\\WebApplicationECOM\\WebApplicationECOM\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApplicationECOM\\appsettings.json",
+              "ToolTip": "C:\\Users\\CS\\source\\repos\\WebApplicationECOM\\WebApplicationECOM\\appsettings.json",
+              "RelativeToolTip": "WebApplicationECOM\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-15T12:16:20.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\CS\\source\\repos\\WebApplicationECOM\\WebApplicationECOM\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplicationECOM\\Program.cs",
+              "ToolTip": "C:\\Users\\CS\\source\\repos\\WebApplicationECOM\\WebApplicationECOM\\Program.cs",
+              "RelativeToolTip": "WebApplicationECOM\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T10:49:11.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\CS\\source\\repos\\WebApplicationECOM\\WebApplicationECOM\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "WebApplicationECOM\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\CS\\source\\repos\\WebApplicationECOM\\WebApplicationECOM\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "WebApplicationECOM\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T10:34:44.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\CS\\source\\repos\\WebApplicationECOM\\WebApplicationECOM\\Repository\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "WebApplicationECOM\\Repository\\CategoryRepository.cs",
+              "ToolTip": "C:\\Users\\CS\\source\\repos\\WebApplicationECOM\\WebApplicationECOM\\Repository\\CategoryRepository.cs",
+              "RelativeToolTip": "WebApplicationECOM\\Repository\\CategoryRepository.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwBIAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T06:16:35.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\CS\\source\\repos\\WebApplicationECOM\\WebApplicationECOM\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "WebApplicationECOM\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\CS\\source\\repos\\WebApplicationECOM\\WebApplicationECOM\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "WebApplicationECOM\\Controllers\\CategoryController.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAowEYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T06:13:32.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\CS\\source\\repos\\WebApplicationECOM\\WebApplicationECOM\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "WebApplicationECOM\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\CS\\source\\repos\\WebApplicationECOM\\WebApplicationECOM\\Models\\Category.cs",
+              "RelativeToolTip": "WebApplicationECOM\\Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T06:08:22.259Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

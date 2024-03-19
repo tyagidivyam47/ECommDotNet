@@ -1,5 +1,10 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Azure.Storage.Blobs;
+using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
+using WebApplicationECOM.Data;
 using WebApplicationECOM.Models;
+
+// For more information on enabling Web API for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
 
 namespace WebApplicationECOM.Controllers
 {
@@ -7,67 +12,86 @@ namespace WebApplicationECOM.Controllers
     [ApiController]
     public class CategoryController : ControllerBase
     {
-        public static List<Category> listofCategories = new List<Category>
+        private ApplicationDbContext _context;
 
+        public CategoryController(ApplicationDbContext context)
         {
-
-            new Category {Id = 1, Title = "Samsung", DisplayOrder = 1 },
-
-            new Category {Id = 2, Title = "Vivo", DisplayOrder = 2 },
-
-            new Category {Id = 3, Title = "Apple", DisplayOrder = 3 },
-
-            new Category {Id = 4, Title = "Oppo", DisplayOrder = 4 },
-
-            new Category {Id = 5, Title = "Realme", DisplayOrder = 5 }
-
-
-        };
-        //private readonly CategoryRepository _categoryRepository = null;
-
-        //public CategoryController()
-        //{
-        //    _categoryRepository = new CategoryRepository();
-        //}
-        [HttpGet]
-
-        public IEnumerable<Category> Get()
-
-        {
-
-            return listofCategories;
-
+            _context = context;
         }
+
+        // GET: api/<CategoryController>
+        [HttpGet]
+        public async Task<IActionResult> Get()
+        {
+            return Ok(await _context.categories.ToListAsync());
+        }
+
+        // GET api/<CategoryController>/5
+        [HttpGet("{id}")]
+        public async Task<IActionResult> Get(int id)
+        {
+            var existingCategory = await _context.categories.FirstOrDefaultAsync(x => x.Id == id);
+            if (existingCategory == null)
+            {
+                return NotFound("Category Not Found");
+            }
+            return Ok(existingCategory);
+        }
+
+        // POST api/<CategoryController>
+        //[HttpPost]
+        //public async Task<IActionResult> Post([FromBody] Category category)
+        //{
+        //    //if (category == null || category.Title == null || category.DisplayOrder == null)
+        //    //{
+        //    //    return BadRequest("Bad Request!");
+        //    //}
+        //    await _context.categories.AddAsync(category);
+        //    await _context.SaveChangesAsync();
+        //    return StatusCode(StatusCodes.Status201Created);
+        //}
 
         [HttpPost]
-
-        public void post([FromBody] Category category)
-
+        public async Task Post([FromForm] Category category)
         {
-
-            listofCategories.Add(category);
-
+            string connectionString = @"DefaultEndpointsProtocol=https;AccountName=shoppingcartaccount;AccountKey=g0Tjm+xJyUtex/Bbj6dQfq7SbHt4f+mMR03hlPjfi7agrvUUMB6fm/Fmyb+bxNlBcVlOXz5iHM2c+AStkvpw/Q==;EndpointSuffix=core.windows.net";
+            string containerName = "shoppingcartimages";
+            BlobContainerClient containerClient = new BlobContainerClient(connectionString, containerName);
+            BlobClient blobClient = containerClient.GetBlobClient(category.CategoryImage.FileName);
+            MemoryStream ms = new MemoryStream();
+            await category.CategoryImage.CopyToAsync(ms);
+            ms.Position = 0;
+            await blobClient.UploadAsync(ms);
         }
 
+        // PUT api/<CategoryController>/5
         [HttpPut("{id}")]
-
-        public void put(int id, [FromBody] Category category)
-
+        public async Task<IActionResult> Put(int id, [FromBody] Category category)
         {
-
-            listofCategories[id] = category;
-
+            var categoryFromDb = _context.categories.FirstOrDefault(x => x.Id == id);
+            if (categoryFromDb == null)
+            {
+                return NotFound("Category not found");
+            }
+            categoryFromDb.Title = category.Title;
+            categoryFromDb.DisplayOrder = category.DisplayOrder;
+            _context.categories.Update(categoryFromDb);
+            await _context.SaveChangesAsync();
+            return Ok("Category Updated");
         }
 
+        // DELETE api/<CategoryController>/5
         [HttpDelete("{id}")]
-
-        public void Delete(int id)
-
+        public async Task<IActionResult> Delete(int id)
         {
-
-            listofCategories.RemoveAt(id);
-
-
+            var categoryFromDb = await _context.categories.FirstOrDefaultAsync(x => x.Id == id);
+            if (categoryFromDb == null)
+            {
+                return NotFound("category not found");
+            }
+            _context.categories.Remove(categoryFromDb);
+            await _context.SaveChangesAsync();
+            return Ok("Deleted");
         }
     }
 }

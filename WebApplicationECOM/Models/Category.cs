@@ -1,4 +1,6 @@
-﻿namespace WebApplicationECOM.Models
+﻿using System.ComponentModel.DataAnnotations.Schema;
+
+namespace WebApplicationECOM.Models
 {
     public class Category
     {
@@ -6,5 +8,8 @@
         public string Title{ get; set; }
 
         public int DisplayOrder { get; set; }
+
+        [NotMapped]
+        public IFormFile CategoryImage { get; set; }
     }
 }

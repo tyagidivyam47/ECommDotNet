@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\CS\\source\\repos\\WebApplicationECOM\\WebApplicationECOM\\WebApplicationECOM.csproj": {}
+    "C:\\Users\\DivyamTyagi\\source\\repos\\ECommDotNet\\WebApplicationECOM\\WebApplicationECOM.csproj": {}
   },
   "projects": {
-    "C:\\Users\\CS\\source\\repos\\WebApplicationECOM\\WebApplicationECOM\\WebApplicationECOM.csproj": {
+    "C:\\Users\\DivyamTyagi\\source\\repos\\ECommDotNet\\WebApplicationECOM\\WebApplicationECOM.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\CS\\source\\repos\\WebApplicationECOM\\WebApplicationECOM\\WebApplicationECOM.csproj",
+        "projectUniqueName": "C:\\Users\\DivyamTyagi\\source\\repos\\ECommDotNet\\WebApplicationECOM\\WebApplicationECOM.csproj",
         "projectName": "WebApplicationECOM",
-        "projectPath": "C:\\Users\\CS\\source\\repos\\WebApplicationECOM\\WebApplicationECOM\\WebApplicationECOM.csproj",
-        "packagesPath": "C:\\Users\\CS\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\CS\\source\\repos\\WebApplicationECOM\\WebApplicationECOM\\obj\\",
+        "projectPath": "C:\\Users\\DivyamTyagi\\source\\repos\\ECommDotNet\\WebApplicationECOM\\WebApplicationECOM.csproj",
+        "packagesPath": "C:\\Users\\DivyamTyagi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\DivyamTyagi\\source\\repos\\ECommDotNet\\WebApplicationECOM\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\CS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\DivyamTyagi\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -45,11 +45,21 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Azure.Storage.Blobs": {
+              "target": "Package",
+              "version": "[12.19.1, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[8.0.3, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
               "target": "Package",
               "version": "[8.0.3, )"
             },
@@ -77,7 +87,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.203/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

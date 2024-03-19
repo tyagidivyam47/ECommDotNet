@@ -11,6 +11,13 @@ namespace WebApplicationECOM.Data
             
         }
 
-        public DbSet<Category > categories { get; set; }
+        //public DbSet<Category > categories { get; set; }
+
+        public DbSet<Book> Books { get; set; }
+
+        public DbSet<BookCover> BookCovers { get; set; }
+
+        public DbSet<BookWriter> BookWriters { get; set; }
+
     }
 }

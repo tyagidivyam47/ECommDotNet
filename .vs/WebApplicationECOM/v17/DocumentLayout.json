@@ -3,64 +3,60 @@
   "WorkspaceRootPath": "C:\\Users\\DivyamTyagi\\source\\repos\\ECommDotNet\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B43D538D-9BED-46FA-9EB0-97498D8D292C}|WebApplicationECOM\\WebApplicationECOM.csproj|c:\\users\\divyamtyagi\\source\\repos\\ecommdotnet\\webapplicationecom\\models\\bookwriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B43D538D-9BED-46FA-9EB0-97498D8D292C}|WebApplicationECOM\\WebApplicationECOM.csproj|solutionrelative:webapplicationecom\\models\\bookwriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B43D538D-9BED-46FA-9EB0-97498D8D292C}|WebApplicationECOM\\WebApplicationECOM.csproj|c:\\users\\divyamtyagi\\source\\repos\\ecommdotnet\\webapplicationecom\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B43D538D-9BED-46FA-9EB0-97498D8D292C}|WebApplicationECOM\\WebApplicationECOM.csproj|solutionrelative:webapplicationecom\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B43D538D-9BED-46FA-9EB0-97498D8D292C}|WebApplicationECOM\\WebApplicationECOM.csproj|c:\\users\\divyamtyagi\\source\\repos\\ecommdotnet\\webapplicationecom\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B43D538D-9BED-46FA-9EB0-97498D8D292C}|WebApplicationECOM\\WebApplicationECOM.csproj|solutionrelative:webapplicationecom\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B43D538D-9BED-46FA-9EB0-97498D8D292C}|WebApplicationECOM\\WebApplicationECOM.csproj|c:\\users\\divyamtyagi\\source\\repos\\ecommdotnet\\webapplicationecom\\helper\\filehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B43D538D-9BED-46FA-9EB0-97498D8D292C}|WebApplicationECOM\\WebApplicationECOM.csproj|solutionrelative:webapplicationecom\\helper\\filehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B43D538D-9BED-46FA-9EB0-97498D8D292C}|WebApplicationECOM\\WebApplicationECOM.csproj|c:\\users\\divyamtyagi\\source\\repos\\ecommdotnet\\webapplicationecom\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B43D538D-9BED-46FA-9EB0-97498D8D292C}|WebApplicationECOM\\WebApplicationECOM.csproj|solutionrelative:webapplicationecom\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B43D538D-9BED-46FA-9EB0-97498D8D292C}|WebApplicationECOM\\WebApplicationECOM.csproj|c:\\users\\divyamtyagi\\source\\repos\\ecommdotnet\\webapplicationecom\\models\\bookcover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B43D538D-9BED-46FA-9EB0-97498D8D292C}|WebApplicationECOM\\WebApplicationECOM.csproj|solutionrelative:webapplicationecom\\models\\bookcover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DivyamTyagi\\source\\repos\\ECommDotNet\\WebApplicationECOM\\Migrations\\20240319122042_init01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebApplicationECOM\\Migrations\\20240319122042_init01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DivyamTyagi\\source\\repos\\ECommDotNet\\WebApplicationECOM\\Migrations\\20240319121442_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebApplicationECOM\\Migrations\\20240319121442_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B43D538D-9BED-46FA-9EB0-97498D8D292C}|WebApplicationECOM\\WebApplicationECOM.csproj|c:\\users\\divyamtyagi\\source\\repos\\ecommdotnet\\webapplicationecom\\controllers\\coverscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B43D538D-9BED-46FA-9EB0-97498D8D292C}|WebApplicationECOM\\WebApplicationECOM.csproj|solutionrelative:webapplicationecom\\controllers\\coverscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B43D538D-9BED-46FA-9EB0-97498D8D292C}|WebApplicationECOM\\WebApplicationECOM.csproj|c:\\users\\divyamtyagi\\source\\repos\\ecommdotnet\\webapplicationecom\\controllers\\writerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B43D538D-9BED-46FA-9EB0-97498D8D292C}|WebApplicationECOM\\WebApplicationECOM.csproj|solutionrelative:webapplicationecom\\controllers\\writerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B43D538D-9BED-46FA-9EB0-97498D8D292C}|WebApplicationECOM\\WebApplicationECOM.csproj|c:\\users\\divyamtyagi\\source\\repos\\ecommdotnet\\webapplicationecom\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B43D538D-9BED-46FA-9EB0-97498D8D292C}|WebApplicationECOM\\WebApplicationECOM.csproj|solutionrelative:webapplicationecom\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DivyamTyagi\\source\\repos\\ECommDotNet\\WebApplicationECOM\\Migrations\\20240327123337_datetimeoffset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebApplicationECOM\\Migrations\\20240327123337_datetimeoffset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B43D538D-9BED-46FA-9EB0-97498D8D292C}|WebApplicationECOM\\WebApplicationECOM.csproj|c:\\users\\divyamtyagi\\source\\repos\\ecommdotnet\\webapplicationecom\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B43D538D-9BED-46FA-9EB0-97498D8D292C}|WebApplicationECOM\\WebApplicationECOM.csproj|solutionrelative:webapplicationecom\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{B43D538D-9BED-46FA-9EB0-97498D8D292C}|WebApplicationECOM\\WebApplicationECOM.csproj|c:\\users\\divyamtyagi\\source\\repos\\ecommdotnet\\webapplicationecom\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B43D538D-9BED-46FA-9EB0-97498D8D292C}|WebApplicationECOM\\WebApplicationECOM.csproj|solutionrelative:webapplicationecom\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B43D538D-9BED-46FA-9EB0-97498D8D292C}|WebApplicationECOM\\WebApplicationECOM.csproj|c:\\users\\divyamtyagi\\source\\repos\\ecommdotnet\\webapplicationecom\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B43D538D-9BED-46FA-9EB0-97498D8D292C}|WebApplicationECOM\\WebApplicationECOM.csproj|solutionrelative:webapplicationecom\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B43D538D-9BED-46FA-9EB0-97498D8D292C}|WebApplicationECOM\\WebApplicationECOM.csproj|c:\\users\\divyamtyagi\\source\\repos\\ecommdotnet\\webapplicationecom\\filters\\apikeyauthattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B43D538D-9BED-46FA-9EB0-97498D8D292C}|WebApplicationECOM\\WebApplicationECOM.csproj|solutionrelative:webapplicationecom\\filters\\apikeyauthattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B43D538D-9BED-46FA-9EB0-97498D8D292C}|WebApplicationECOM\\WebApplicationECOM.csproj|c:\\users\\divyamtyagi\\source\\repos\\ecommdotnet\\webapplicationecom\\controllers\\writerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B43D538D-9BED-46FA-9EB0-97498D8D292C}|WebApplicationECOM\\WebApplicationECOM.csproj|solutionrelative:webapplicationecom\\controllers\\writerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B43D538D-9BED-46FA-9EB0-97498D8D292C}|WebApplicationECOM\\WebApplicationECOM.csproj|c:\\users\\divyamtyagi\\source\\repos\\ecommdotnet\\webapplicationecom\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{B43D538D-9BED-46FA-9EB0-97498D8D292C}|WebApplicationECOM\\WebApplicationECOM.csproj|solutionrelative:webapplicationecom\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B43D538D-9BED-46FA-9EB0-97498D8D292C}|WebApplicationECOM\\WebApplicationECOM.csproj|c:\\users\\divyamtyagi\\source\\repos\\ecommdotnet\\webapplicationecom\\repository\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B43D538D-9BED-46FA-9EB0-97498D8D292C}|WebApplicationECOM\\WebApplicationECOM.csproj|solutionrelative:webapplicationecom\\repository\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B43D538D-9BED-46FA-9EB0-97498D8D292C}|WebApplicationECOM\\WebApplicationECOM.csproj|c:\\users\\divyamtyagi\\source\\repos\\ecommdotnet\\webapplicationecom\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B43D538D-9BED-46FA-9EB0-97498D8D292C}|WebApplicationECOM\\WebApplicationECOM.csproj|solutionrelative:webapplicationecom\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B43D538D-9BED-46FA-9EB0-97498D8D292C}|WebApplicationECOM\\WebApplicationECOM.csproj|c:\\users\\divyamtyagi\\source\\repos\\ecommdotnet\\webapplicationecom\\migrations\\20240319123922_init01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B43D538D-9BED-46FA-9EB0-97498D8D292C}|WebApplicationECOM\\WebApplicationECOM.csproj|solutionrelative:webapplicationecom\\migrations\\20240319123922_init01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DivyamTyagi\\source\\repos\\ECommDotNet\\WebApplicationECOM\\Migrations\\20240327071921_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebApplicationECOM\\Migrations\\20240327071921_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B43D538D-9BED-46FA-9EB0-97498D8D292C}|WebApplicationECOM\\WebApplicationECOM.csproj|c:\\users\\divyamtyagi\\source\\repos\\ecommdotnet\\webapplicationecom\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B43D538D-9BED-46FA-9EB0-97498D8D292C}|WebApplicationECOM\\WebApplicationECOM.csproj|solutionrelative:webapplicationecom\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B43D538D-9BED-46FA-9EB0-97498D8D292C}|WebApplicationECOM\\WebApplicationECOM.csproj|c:\\users\\divyamtyagi\\source\\repos\\ecommdotnet\\webapplicationecom\\controllers\\coverscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B43D538D-9BED-46FA-9EB0-97498D8D292C}|WebApplicationECOM\\WebApplicationECOM.csproj|solutionrelative:webapplicationecom\\controllers\\coverscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B43D538D-9BED-46FA-9EB0-97498D8D292C}|WebApplicationECOM\\WebApplicationECOM.csproj|c:\\users\\divyamtyagi\\source\\repos\\ecommdotnet\\webapplicationecom\\helper\\filehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B43D538D-9BED-46FA-9EB0-97498D8D292C}|WebApplicationECOM\\WebApplicationECOM.csproj|solutionrelative:webapplicationecom\\helper\\filehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B43D538D-9BED-46FA-9EB0-97498D8D292C}|WebApplicationECOM\\WebApplicationECOM.csproj|c:\\users\\divyamtyagi\\source\\repos\\ecommdotnet\\webapplicationecom\\models\\bookcover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B43D538D-9BED-46FA-9EB0-97498D8D292C}|WebApplicationECOM\\WebApplicationECOM.csproj|solutionrelative:webapplicationecom\\models\\bookcover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B43D538D-9BED-46FA-9EB0-97498D8D292C}|WebApplicationECOM\\WebApplicationECOM.csproj|c:\\users\\divyamtyagi\\source\\repos\\ecommdotnet\\webapplicationecom\\models\\bookwriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B43D538D-9BED-46FA-9EB0-97498D8D292C}|WebApplicationECOM\\WebApplicationECOM.csproj|solutionrelative:webapplicationecom\\models\\bookwriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -70,47 +66,167 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "20240319123922_init01.cs",
-              "DocumentMoniker": "C:\\Users\\DivyamTyagi\\source\\repos\\ECommDotNet\\WebApplicationECOM\\Migrations\\20240319123922_init01.cs",
-              "RelativeDocumentMoniker": "WebApplicationECOM\\Migrations\\20240319123922_init01.cs",
-              "ToolTip": "C:\\Users\\DivyamTyagi\\source\\repos\\ECommDotNet\\WebApplicationECOM\\Migrations\\20240319123922_init01.cs",
-              "RelativeToolTip": "WebApplicationECOM\\Migrations\\20240319123922_init01.cs",
+              "DocumentIndex": 0,
+              "Title": "20240327123337_datetimeoffset.cs",
+              "DocumentMoniker": "C:\\Users\\DivyamTyagi\\source\\repos\\ECommDotNet\\WebApplicationECOM\\Migrations\\20240327123337_datetimeoffset.cs",
+              "RelativeDocumentMoniker": "WebApplicationECOM\\Migrations\\20240327123337_datetimeoffset.cs",
+              "ToolTip": "C:\\Users\\DivyamTyagi\\source\\repos\\ECommDotNet\\WebApplicationECOM\\Migrations\\20240327123337_datetimeoffset.cs",
+              "RelativeToolTip": "WebApplicationECOM\\Migrations\\20240327123337_datetimeoffset.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-19T12:39:22.849Z"
+              "WhenOpened": "2024-03-27T12:33:37.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApiKeyAuthAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\DivyamTyagi\\source\\repos\\ECommDotNet\\WebApplicationECOM\\Filters\\ApiKeyAuthAttribute.cs",
+              "RelativeDocumentMoniker": "WebApplicationECOM\\Filters\\ApiKeyAuthAttribute.cs",
+              "ToolTip": "C:\\Users\\DivyamTyagi\\source\\repos\\ECommDotNet\\WebApplicationECOM\\Filters\\ApiKeyAuthAttribute.cs",
+              "RelativeToolTip": "WebApplicationECOM\\Filters\\ApiKeyAuthAttribute.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T08:05:20.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DivyamTyagi\\source\\repos\\ECommDotNet\\WebApplicationECOM\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplicationECOM\\Program.cs",
+              "ToolTip": "C:\\Users\\DivyamTyagi\\source\\repos\\ECommDotNet\\WebApplicationECOM\\Program.cs",
+              "RelativeToolTip": "WebApplicationECOM\\Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAACoAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T11:49:36.675Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "20240319122042_init01.cs",
-              "DocumentMoniker": "C:\\Users\\DivyamTyagi\\source\\repos\\ECommDotNet\\WebApplicationECOM\\Migrations\\20240319122042_init01.cs",
-              "RelativeDocumentMoniker": "WebApplicationECOM\\Migrations\\20240319122042_init01.cs",
-              "ToolTip": "C:\\Users\\DivyamTyagi\\source\\repos\\ECommDotNet\\WebApplicationECOM\\Migrations\\20240319122042_init01.cs",
-              "RelativeToolTip": "WebApplicationECOM\\Migrations\\20240319122042_init01.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\DivyamTyagi\\source\\repos\\ECommDotNet\\WebApplicationECOM\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApplicationECOM\\appsettings.json",
+              "ToolTip": "C:\\Users\\DivyamTyagi\\source\\repos\\ECommDotNet\\WebApplicationECOM\\appsettings.json",
+              "RelativeToolTip": "WebApplicationECOM\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-20T10:30:15.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "C:\\Users\\DivyamTyagi\\source\\repos\\ECommDotNet\\WebApplicationECOM\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "WebApplicationECOM\\Controllers\\BooksController.cs",
+              "ToolTip": "C:\\Users\\DivyamTyagi\\source\\repos\\ECommDotNet\\WebApplicationECOM\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "WebApplicationECOM\\Controllers\\BooksController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAswBcAAABJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-19T12:20:42.831Z"
+              "WhenOpened": "2024-03-19T09:57:13.662Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\DivyamTyagi\\source\\repos\\ECommDotNet\\WebApplicationECOM\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "WebApplicationECOM\\Models\\Book.cs",
+              "ToolTip": "C:\\Users\\DivyamTyagi\\source\\repos\\ECommDotNet\\WebApplicationECOM\\Models\\Book.cs",
+              "RelativeToolTip": "WebApplicationECOM\\Models\\Book.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAiwBIAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T07:17:24.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WritersController.cs",
+              "DocumentMoniker": "C:\\Users\\DivyamTyagi\\source\\repos\\ECommDotNet\\WebApplicationECOM\\Controllers\\WritersController.cs",
+              "RelativeDocumentMoniker": "WebApplicationECOM\\Controllers\\WritersController.cs",
+              "ToolTip": "C:\\Users\\DivyamTyagi\\source\\repos\\ECommDotNet\\WebApplicationECOM\\Controllers\\WritersController.cs",
+              "RelativeToolTip": "WebApplicationECOM\\Controllers\\WritersController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAADIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T05:16:41.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\DivyamTyagi\\source\\repos\\ECommDotNet\\WebApplicationECOM\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebApplicationECOM\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\DivyamTyagi\\source\\repos\\ECommDotNet\\WebApplicationECOM\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebApplicationECOM\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T07:24:47.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20240327071921_init.cs",
+              "DocumentMoniker": "C:\\Users\\DivyamTyagi\\source\\repos\\ECommDotNet\\WebApplicationECOM\\Migrations\\20240327071921_init.cs",
+              "RelativeDocumentMoniker": "WebApplicationECOM\\Migrations\\20240327071921_init.cs",
+              "ToolTip": "C:\\Users\\DivyamTyagi\\source\\repos\\ECommDotNet\\WebApplicationECOM\\Migrations\\20240327071921_init.cs",
+              "RelativeToolTip": "WebApplicationECOM\\Migrations\\20240327071921_init.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T07:19:21.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\DivyamTyagi\\source\\repos\\ECommDotNet\\WebApplicationECOM\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "WebApplicationECOM\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\DivyamTyagi\\source\\repos\\ECommDotNet\\WebApplicationECOM\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "WebApplicationECOM\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T06:29:16.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CoversController.cs",
+              "DocumentMoniker": "C:\\Users\\DivyamTyagi\\source\\repos\\ECommDotNet\\WebApplicationECOM\\Controllers\\CoversController.cs",
+              "RelativeDocumentMoniker": "WebApplicationECOM\\Controllers\\CoversController.cs",
+              "ToolTip": "C:\\Users\\DivyamTyagi\\source\\repos\\ECommDotNet\\WebApplicationECOM\\Controllers\\CoversController.cs",
+              "RelativeToolTip": "WebApplicationECOM\\Controllers\\CoversController.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAmwCgAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T05:51:49.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "FileHelper.cs",
               "DocumentMoniker": "C:\\Users\\DivyamTyagi\\source\\repos\\ECommDotNet\\WebApplicationECOM\\Helper\\FileHelper.cs",
               "RelativeDocumentMoniker": "WebApplicationECOM\\Helper\\FileHelper.cs",
               "ToolTip": "C:\\Users\\DivyamTyagi\\source\\repos\\ECommDotNet\\WebApplicationECOM\\Helper\\FileHelper.cs",
               "RelativeToolTip": "WebApplicationECOM\\Helper\\FileHelper.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAQwAwAAABNAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-19T08:14:33.578Z"
+              "WhenOpened": "2024-03-19T08:14:33.578Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 13,
               "Title": "BookWriter.cs",
               "DocumentMoniker": "C:\\Users\\DivyamTyagi\\source\\repos\\ECommDotNet\\WebApplicationECOM\\Models\\BookWriter.cs",
               "RelativeDocumentMoniker": "WebApplicationECOM\\Models\\BookWriter.cs",
@@ -123,135 +239,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 12,
               "Title": "BookCover.cs",
               "DocumentMoniker": "C:\\Users\\DivyamTyagi\\source\\repos\\ECommDotNet\\WebApplicationECOM\\Models\\BookCover.cs",
               "RelativeDocumentMoniker": "WebApplicationECOM\\Models\\BookCover.cs",
               "ToolTip": "C:\\Users\\DivyamTyagi\\source\\repos\\ECommDotNet\\WebApplicationECOM\\Models\\BookCover.cs",
               "RelativeToolTip": "WebApplicationECOM\\Models\\BookCover.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAUwA4AAAATAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-19T07:22:49.916Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Book.cs",
-              "DocumentMoniker": "C:\\Users\\DivyamTyagi\\source\\repos\\ECommDotNet\\WebApplicationECOM\\Models\\Book.cs",
-              "RelativeDocumentMoniker": "WebApplicationECOM\\Models\\Book.cs",
-              "ToolTip": "C:\\Users\\DivyamTyagi\\source\\repos\\ECommDotNet\\WebApplicationECOM\\Models\\Book.cs",
-              "RelativeToolTip": "WebApplicationECOM\\Models\\Book.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAgwBMAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-19T07:17:24.009Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "BooksController.cs",
-              "DocumentMoniker": "C:\\Users\\DivyamTyagi\\source\\repos\\ECommDotNet\\WebApplicationECOM\\Controllers\\BooksController.cs",
-              "RelativeDocumentMoniker": "WebApplicationECOM\\Controllers\\BooksController.cs",
-              "ToolTip": "C:\\Users\\DivyamTyagi\\source\\repos\\ECommDotNet\\WebApplicationECOM\\Controllers\\BooksController.cs",
-              "RelativeToolTip": "WebApplicationECOM\\Controllers\\BooksController.cs",
-              "ViewState": "AQIAABUAAAAAAAAAAADwvyYAAAA8AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-19T09:57:13.662Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "20240319121442_init.cs",
-              "DocumentMoniker": "C:\\Users\\DivyamTyagi\\source\\repos\\ECommDotNet\\WebApplicationECOM\\Migrations\\20240319121442_init.cs",
-              "RelativeDocumentMoniker": "WebApplicationECOM\\Migrations\\20240319121442_init.cs",
-              "ToolTip": "C:\\Users\\DivyamTyagi\\source\\repos\\ECommDotNet\\WebApplicationECOM\\Migrations\\20240319121442_init.cs",
-              "RelativeToolTip": "WebApplicationECOM\\Migrations\\20240319121442_init.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-19T12:14:42.654Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\DivyamTyagi\\source\\repos\\ECommDotNet\\WebApplicationECOM\\Data\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "WebApplicationECOM\\Data\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\DivyamTyagi\\source\\repos\\ECommDotNet\\WebApplicationECOM\\Data\\ApplicationDbContext.cs",
-              "RelativeToolTip": "WebApplicationECOM\\Data\\ApplicationDbContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA8AAAAuAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-15T10:34:44.423Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "CoversController.cs",
-              "DocumentMoniker": "C:\\Users\\DivyamTyagi\\source\\repos\\ECommDotNet\\WebApplicationECOM\\Controllers\\CoversController.cs",
-              "RelativeDocumentMoniker": "WebApplicationECOM\\Controllers\\CoversController.cs",
-              "ToolTip": "C:\\Users\\DivyamTyagi\\source\\repos\\ECommDotNet\\WebApplicationECOM\\Controllers\\CoversController.cs",
-              "RelativeToolTip": "WebApplicationECOM\\Controllers\\CoversController.cs",
-              "ViewState": "AQIAABcAAAAAAAAAAAAowCEAAAAlAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-19T09:57:41.484Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "WritersController.cs",
-              "DocumentMoniker": "C:\\Users\\DivyamTyagi\\source\\repos\\ECommDotNet\\WebApplicationECOM\\Controllers\\WritersController.cs",
-              "RelativeDocumentMoniker": "WebApplicationECOM\\Controllers\\WritersController.cs",
-              "ToolTip": "C:\\Users\\DivyamTyagi\\source\\repos\\ECommDotNet\\WebApplicationECOM\\Controllers\\WritersController.cs",
-              "RelativeToolTip": "WebApplicationECOM\\Controllers\\WritersController.cs",
-              "ViewState": "AQIAABoAAAAAAAAAAAAowCsAAAAoAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-19T09:56:37.049Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "CategoryController.cs",
-              "DocumentMoniker": "C:\\Users\\DivyamTyagi\\source\\repos\\ECommDotNet\\WebApplicationECOM\\Controllers\\CategoryController.cs",
-              "RelativeDocumentMoniker": "WebApplicationECOM\\Controllers\\CategoryController.cs",
-              "ToolTip": "C:\\Users\\DivyamTyagi\\source\\repos\\ECommDotNet\\WebApplicationECOM\\Controllers\\CategoryController.cs",
-              "RelativeToolTip": "WebApplicationECOM\\Controllers\\CategoryController.cs",
-              "ViewState": "AQIAADQAAAAAAAAAAAAgwFAAAAALAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-18T10:18:09.695Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\DivyamTyagi\\source\\repos\\ECommDotNet\\WebApplicationECOM\\appsettings.json",
-              "RelativeDocumentMoniker": "WebApplicationECOM\\appsettings.json",
-              "ToolTip": "C:\\Users\\DivyamTyagi\\source\\repos\\ECommDotNet\\WebApplicationECOM\\appsettings.json",
-              "RelativeToolTip": "WebApplicationECOM\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAB2AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-03-15T12:16:20.293Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\DivyamTyagi\\source\\repos\\ECommDotNet\\WebApplicationECOM\\Program.cs",
-              "RelativeDocumentMoniker": "WebApplicationECOM\\Program.cs",
-              "ToolTip": "C:\\Users\\DivyamTyagi\\source\\repos\\ECommDotNet\\WebApplicationECOM\\Program.cs",
-              "RelativeToolTip": "WebApplicationECOM\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAXAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-15T10:49:11.514Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "CategoryRepository.cs",
-              "DocumentMoniker": "C:\\Users\\DivyamTyagi\\source\\repos\\ECommDotNet\\WebApplicationECOM\\Repository\\CategoryRepository.cs",
-              "RelativeDocumentMoniker": "WebApplicationECOM\\Repository\\CategoryRepository.cs",
-              "ToolTip": "C:\\Users\\DivyamTyagi\\source\\repos\\ECommDotNet\\WebApplicationECOM\\Repository\\CategoryRepository.cs",
-              "RelativeToolTip": "WebApplicationECOM\\Repository\\CategoryRepository.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAgwBIAAAAxAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-15T06:16:35.306Z"
+              "WhenOpened": "2024-03-19T07:22:49.916Z",
+              "EditorCaption": ""
             }
           ]
         }

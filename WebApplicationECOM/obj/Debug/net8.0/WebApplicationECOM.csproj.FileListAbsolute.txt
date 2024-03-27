@@ -170,3 +170,6 @@ C:\Users\DivyamTyagi\Source\Repos\ECommDotNet\WebApplicationECOM\bin\Debug\net8.
 C:\Users\DivyamTyagi\Source\Repos\ECommDotNet\WebApplicationECOM\bin\Debug\net8.0\Azure.Storage.Blobs.dll
 C:\Users\DivyamTyagi\Source\Repos\ECommDotNet\WebApplicationECOM\bin\Debug\net8.0\Azure.Storage.Common.dll
 C:\Users\DivyamTyagi\Source\Repos\ECommDotNet\WebApplicationECOM\bin\Debug\net8.0\System.IO.Hashing.dll
+C:\Users\DivyamTyagi\source\repos\ECommDotNet\WebApplicationECOM\bin\Debug\net8.0\Npgsql.dll
+C:\Users\DivyamTyagi\source\repos\ECommDotNet\WebApplicationECOM\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\DivyamTyagi\source\repos\ECommDotNet\WebApplicationECOM\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.Versioning.dll

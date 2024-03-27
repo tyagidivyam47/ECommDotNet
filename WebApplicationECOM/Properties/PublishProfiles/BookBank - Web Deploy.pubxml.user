@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAXaPgna9KQEOECIcJBCEl5AAAAAACAAAAAAAQZgAAAAEAACAAAACcPddFr0U6ykrNU1PiKt8w1ytOFNGEx4esEk6jcxZeqwAAAAAOgAAAAAIAACAAAADouCirs7iNdDXm4vbyf4R97vfqmkxcgJ1uwIkrCE+tsYAAAAA24fD0YJhNL6rwfetNG9vbocT2QR/GwYo855dfOXKKFRtqg2NxJ6o9xWyTrsNvt/xvcNEznF3HM/3NfBzdpgCs4U7f4Ci3lJM1H21Rpc8a4iUR/89mTE+DlHZDlZkzzNwPL2BRwdKNSAV13MnDD5vC2VbrOWwucUvSDS5Y+dZBGEAAAACxaPDbxOPujfd1NhECViz2/WmHcAD+eewkwgIE7Gg7s9VzEKO9RkNy9MIBR6c0zXk8XjqzOZsZqdPcMRY6zzE5</EncryptedPassword>
+    <History>True|2024-03-20T11:12:40.2471976Z;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="DefaultConnection">
+      <Value>Server=tcp:bookbank.database.windows.net,1433%3bInitial Catalog=bookapidb%3bPersist Security Info=False%3bUser ID=Divyam%3bPassword=Tyagi1212%40goo%3bMultipleActiveResultSets=False%3bEncrypt=True%3bTrustServerCertificate=False%3bConnection Timeout=30%3b</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+  <ItemGroup>
+    <EFMigrations Include="WebApplicationECOM.Data.ApplicationDbContext">
+      <Value>Server=tcp:bookbank.database.windows.net,1433%3bInitial Catalog=bookapidb%3bPersist Security Info=False%3bUser ID=Divyam%3bPassword=Tyagi1212%40goo%3bMultipleActiveResultSets=False%3bEncrypt=True%3bTrustServerCertificate=False%3bConnection Timeout=30%3b</Value>
+    </EFMigrations>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="BookBank" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\DivyamTyagi\\source\\repos\\ECommDotNet\\WebApplicationECOM\\obj\\Release\\net8\.0\\PubTmp\\Out\\$" />
+  </parameter>
+  <parameter name="WebApplicationECOM.Data.ApplicationDbContext" description="" value="Server=tcp:bookbank.database.windows.net,1433;Initial Catalog=bookapidb;Persist Security Info=False;User ID=Divyam;Password=Tyagi1212@goo;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;" tags="dbfullsql">
+    <parameterEntry kind="ProviderPath" scope="dbfullsql" match="^C:\\Users\\DivyamTyagi\\source\\repos\\ECommDotNet\\WebApplicationECOM\\obj\\Release\\net8\.0\\PubTmp\\EFSQLScripts\\WebApplicationECOM\.Data\.ApplicationDbContext\.sql$" />
+  </parameter>
+</parameters>

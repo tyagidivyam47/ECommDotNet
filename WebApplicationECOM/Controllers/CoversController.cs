@@ -1,4 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 using WebApplicationECOM.Data;
 using WebApplicationECOM.Helper;
 using WebApplicationECOM.Models;
@@ -18,16 +19,26 @@ namespace WebApplicationECOM.Controllers
         }
         // GET: api/<CoversController>
         [HttpGet]
-        public IEnumerable<string> Get()
+        public async Task<IActionResult> Get()
         {
-            return new string[] { "value1", "value2" };
+            var covers = await (from cover in _context.BookCovers
+                                select new
+                                {
+                                    Id = cover.Id,
+                                    Title = cover.Title,
+                                    ImageUrl = cover.ImageUrl,
+                                    WriterId = cover.Id
+                                }
+                                ).ToListAsync();
+            return Ok(covers);
         }
 
         // GET api/<CoversController>/5
         [HttpGet("{id}")]
-        public string Get(int id)
+        public async Task<IActionResult> Get(int id)
         {
-            return "value";
+            var cover = await _context.BookCovers.Where(x => x.Id == id).Include(x => x.Books).FirstOrDefaultAsync();
+            return Ok(cover);
         }
 
         // POST api/<CoversController>

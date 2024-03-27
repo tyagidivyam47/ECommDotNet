@@ -1,5 +1,6 @@
 ﻿
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 using WebApplicationECOM.Data;
 using WebApplicationECOM.Helper;
 using WebApplicationECOM.Models;
@@ -19,16 +20,25 @@ namespace WebApplicationECOM.Controllers
         }
         // GET: api/<WritersController>
         [HttpGet]
-        public IEnumerable<string> Get()
+        public async Task<IActionResult> Get()
         {
-            return new string[] { "value1", "value2" };
+            var writers = await (from writer in _context.BookWriters
+                                 select new
+                                 {
+                                     Id = writer.Id,
+                                     Name = writer.Name,
+                                     ImageUrl = writer.ImageUrl,
+                                 }
+                                ).ToListAsync();
+            return Ok(writers);
         }
 
         // GET api/<WritersController>/5
         [HttpGet("{id}")]
-        public string Get(int id)
+        public async Task<IActionResult> Get(int id)
         {
-            return "value";
+            var writer = await (_context.BookWriters.Where(x => x.Id == id)).Include(x => x.Books).FirstOrDefaultAsync();
+            return Ok(writer);
         }
 
         // POST api/<WritersController>

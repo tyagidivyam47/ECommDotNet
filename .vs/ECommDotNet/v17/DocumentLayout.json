@@ -51,8 +51,7 @@
               "RelativeToolTip": "WebApplicationECOM\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-19T05:51:35.495Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-19T05:51:35.495Z"
             },
             {
               "$type": "Document",
@@ -64,8 +63,7 @@
               "RelativeToolTip": "WebApplicationECOM\\Models\\Category.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA1AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-19T05:46:09.328Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-19T05:46:09.328Z"
             },
             {
               "$type": "Document",
@@ -77,8 +75,7 @@
               "RelativeToolTip": "WebApplicationECOM\\Controllers\\CategoryController.cs",
               "ViewState": "AQIAAC0AAAAAAAAAAAAAADYAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-19T05:31:25.266Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-19T05:31:25.266Z"
             }
           ]
         }

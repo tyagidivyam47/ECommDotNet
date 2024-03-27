@@ -14,6 +14,8 @@ namespace WebApplicationECOM.Models
 
         public string? BookUrl { get; set; }
 
+        public bool? Trending { get; set; }
+
         public DateTime CreatedDate { get; set; } = DateTime.Now;
 
         public string ISBNNUMBER{ get; set; }
